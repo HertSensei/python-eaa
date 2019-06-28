@@ -1,3 +1,6 @@
+# Author        = Satria Herman as Hert Sensei
+# Last Modified = 28-6-2019 
+
 import time
 import turtle
 import random
